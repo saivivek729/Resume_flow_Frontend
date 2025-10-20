@@ -1,30 +1,25 @@
 # Creative front end
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+## Project Overview
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/saivivek729-3164s-projects/v0-creative-front-end)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/KhSocdYrgFt)
+This project is developed as part of the Resume System Trial Task for the internship selection process.
+The goal of this module is to create a modern, interactive frontend interface that allows users to build and preview their resumes in real-time.
 
-## Overview
+This forms the UI foundation of a larger Resume Ecosystem, which will later connect with backend APIs, databases, and AI modules for automatic updates based on user achievements.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Objective
+
+To design and implement a user-friendly Resume Builder interface using React and Tailwind CSS, where:
+
+* Users can input their personal and professional details.
+
+* The data instantly updates a live preview of their resume.
+
+* The layout is clean, responsive, and ready for backend integration.
+
 
 ## Deployment
 
-Your project is live at:
+My project is live at:
 
-**[https://vercel.com/saivivek729-3164s-projects/v0-creative-front-end](https://vercel.com/saivivek729-3164s-projects/v0-creative-front-end)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/KhSocdYrgFt](https://v0.app/chat/projects/KhSocdYrgFt)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+**https://resume-flow-frontend.vercel.app/**
