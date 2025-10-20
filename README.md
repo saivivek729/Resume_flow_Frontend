@@ -43,3 +43,9 @@ To design and implement a user-friendly Resume Builder interface using React and
 My project is live at:
 
 **https://resume-flow-frontend.vercel.app/**
+
+## Document
+
+**https://drive.google.com/file/d/1uxVoRjIHrrtJGITxDoh2WfeRpZqQJWx7/view?usp=sharing**
+
+
