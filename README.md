@@ -17,6 +17,26 @@ To design and implement a user-friendly Resume Builder interface using React and
 
 * The layout is clean, responsive, and ready for backend integration.
 
+## Features
+* 🧠 Real-time Preview: Resume updates instantly as users type.
+
+* 🎨 Modern UI: Built using Tailwind CSS for a clean and responsive design.
+
+* 🧱 Component-based Design: Easy to extend and maintain.
+
+* ⚙️ Integration Ready: Can connect to future backend and AI modules.
+
+* 📄 Optional PDF Export: Supports react-to-print or browser print for resume export.
+
+## Tech Stack
+
+
+* React.js	- Core UI Framework
+* Tailwind CSS -	Styling and responsiveness
+* JavaScript (ES6) -	Logic and state management
+* Vite / Create React - App	Development environment
+* Git & GitHub	- Version control and hosting
+* Vercel -	Deployment platform
 
 ## Deployment
 
